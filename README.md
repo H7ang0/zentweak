@@ -62,16 +62,6 @@ objective-c
 - 成员：13人（持续增长中）
 - 功能：安装支持/开发讨论/越狱资讯
 
-## 项目结构
-ZenPopup/
-├── TWEAK/
-│ ├── Tweak.x # 核心逻辑实现
-│ ├── Makefile # 编译配置
-│ ├── control # DEB包元信息
-│ └── ZenPopup.plist # 注入SpringBoard配置
-├── README.md # 说明文档
-└── LICENSE # MIT许可证
-
 
 ## 参与贡献
 欢迎通过以下方式参与项目：
