@@ -29,14 +29,6 @@
   - 多窗口场景识别
 - **即时交互**：点击关闭按钮立即消失
 
-## 安装方法
-### 通过Debian包安装
-下载对应版本后使用包管理器安装：
-bash
-有根环境（Unc0ver/Checkra1n等）
-curl -LO https://example.com/ZenPopup_1.0-1_arm64.deb && dpkg -i ZenPopup_1.0-1_arm64.deb
-无根环境（Dopamine等）
-sudo /var/jb/usr/bin/curl -LO https://example.com/ZenPopup-rootless.deb && sudo /var/jb/usr/bin/dpkg -i ZenPopup-rootless.deb
 ### 从源码编译
 bash
 git clone https://github.com/H7ang0/zzentweak.git
