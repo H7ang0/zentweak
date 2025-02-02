@@ -31,7 +31,7 @@
 
 ### 从源码编译
 bash
-git clone https://github.com/H7ang0/zzentweak.git
+git clone https://github.com/H7ang0/zentweak.git
 cd ZenPopup
 编译有根版本
 make clean && make package
